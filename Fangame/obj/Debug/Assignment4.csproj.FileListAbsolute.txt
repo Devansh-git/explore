@@ -1,0 +1,11 @@
+C:\Users\devan\Desktop\notes\programming 1\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\devan\Desktop\notes\programming 1\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\devan\Desktop\notes\programming 1\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\devan\Desktop\notes\programming 1\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\Users\devan\Desktop\notes\programming 1\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\devan\Desktop\notes\programming 1\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\devan\Desktop\notes\programming 1\Assignment4\obj\Debug\Assignment4.pdb
+D:\notes\SEM 1 Shit\programming 1\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+D:\notes\SEM 1 Shit\programming 1\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+D:\notes\SEM 1 Shit\programming 1\Assignment4\obj\Debug\Assignment4.exe
+D:\notes\SEM 1 Shit\programming 1\Assignment4\obj\Debug\Assignment4.pdb
